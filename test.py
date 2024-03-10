@@ -3,7 +3,7 @@ from tkinter import filedialog
 from AudioProcess import Audio_model
 
 
-au_model = Audio_model("", False)  # 现在才选择文件了 没有开始记录
+au_model = Audio_model("", False)  # select word file
 
 #file_dict = []  # 这个是为了实现多个文件打分
 
