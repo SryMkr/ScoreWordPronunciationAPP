@@ -12,8 +12,8 @@ import time
 reload(sys)  # 重新加载之前载入的模块 但是不重新载入会怎么样了？
 
 YOUDAO_URL = 'https://openapi.youdao.com/iseapi'  # 要使用的有道API网址
-APP_KEY = '3d96861d86e5d1eb'  # 我得应用ID
-APP_SECRET = '0wq0M3dYpvMhlgpzgcTv6MyWLCn7ou0A'  # 我得应用密钥
+APP_KEY = ''  # 我得应用ID
+APP_SECRET = ''  # 我得应用密钥
 
 
 # 要评测的音频文件的Base64编码字符串
